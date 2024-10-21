@@ -56,7 +56,7 @@ e.g. `java -jar /path/to/my.jar`? What do you see if you visit the URL
 
   
 
-    *\[answer\]*
+![image](https://github.com/user-attachments/assets/0c2fb32e-76b2-414f-a577-1e5735b8771c)
 
   
 
@@ -76,9 +76,9 @@ accept requests from the clients. The Dockerfile should be stored under
 the following directory: `${PROJECT_ROOT}/weekend-server/Dockerfile`.
 Please commit the changes and push them to your Git repository.
 
-  
+  ![image](https://github.com/user-attachments/assets/aef52a8b-61ee-4bca-a752-bc30717b52e3)
+![image](https://github.com/user-attachments/assets/a6262e87-c36b-46b5-96f0-7e8a81b70774)
 
-    *\[answer: commit the Dockerfile to the Git repository\]*
 
   
 
