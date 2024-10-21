@@ -56,7 +56,8 @@ e.g. `java -jar /path/to/my.jar`? What do you see if you visit the URL
 
   
 
-    *\[answer\]*
+   ![image](https://github.com/user-attachments/assets/adcddc8b-5603-4c7c-9bb1-8ccf86cf7332)
+
 
   
 
@@ -78,9 +79,11 @@ Please commit the changes and push them to your Git repository.
 
   
 
-    *\[answer: commit the Dockerfile to the Git repository\]*
+![image](https://github.com/user-attachments/assets/c68a091b-ed1c-478d-8454-421c550f652d)
 
-  
+
+  ![image](https://github.com/user-attachments/assets/40045c05-dc18-4d69-8760-6060e1339626)
+
 
   
 
